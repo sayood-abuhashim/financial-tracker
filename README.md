@@ -1,2 +1,3 @@
-# financial-tracker
-Public pages for the Financial Tracker app: privacy policy and account/data deletion.
+# Financial Tracker
+
+Public pages for the Financial Tracker app: [privacy policy](https://sayood-abuhashim.github.io/financial-tracker/privacy/) and [account & data deletion](https://sayood-abuhashim.github.io/financial-tracker/delete-account/).
